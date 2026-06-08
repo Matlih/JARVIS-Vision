@@ -31,7 +31,7 @@ Real-time object detection with a voice-controlled JARVIS interface. Built for *
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Matlih/JARVIS-Vision.git
 cd JARVIS-Vision
 pip install -r requirements.txt
 ```
