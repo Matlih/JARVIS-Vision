@@ -1,0 +1,23 @@
+CAMERA_INDEX          = 0
+MODEL_NAME            = "yolo11n.pt"
+MODELS_DIR            = "models"
+VOICE_DIR             = "voice"
+CONFIDENCE_THRESHOLD  = 0.45
+WAKE_WORD             = "jarvis"
+WINDOW_TITLE          = "JARVIS | Vision"
+FONT                  = 0          # cv2.FONT_HERSHEY_SIMPLEX
+FONT_SCALE            = 0.6
+FONT_THICKNESS        = 2
+BOX_THICKNESS         = 2
+HUD_TEXT_COLOR        = (0, 255, 180)
+SR_TIMEOUT            = 3.0
+SR_PHRASE_TIME_LIMIT  = 6.0
+SR_ENERGY_THRESHOLD   = 300     # lower = picks up quieter speech
+SR_DYNAMIC_ENERGY     = True    # keep auto-adjusting but start sensitive
+TTS_RATE              = 175
+LOOP_FPS_DISPLAY_UPDATE = 10
+EDGE_TTS_VOICE        = "en-GB-RyanNeural"
+EDGE_TTS_RATE         = "+8%"
+EDGE_TTS_PITCH        = "-4Hz"
+SNAPSHOTS_DIR         = "snapshots"
+FLASH_DURATION        = 0.5        # seconds a new-detection flash lasts

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+models/*.pt
+voice/*.mp3
+snapshots/*
+!snapshots/.gitkeep
+.env
