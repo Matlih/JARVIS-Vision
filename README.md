@@ -1,6 +1,6 @@
 # JARVIS Vision
 
-Real-time object detection with a voice-controlled JARVIS interface. Built for **National University Dasmariñas (NUD) STEM Career Orientation A.Y. 2025–2026** demo. Runs fully offline after first setup — no cloud at runtime.
+Real-time object detection with a voice-controlled JARVIS interface. Built for **National University Dasmariñas (NUD) STEM Career Fair A.Y. 2025–2026** demo. Runs fully offline after first setup — no cloud at runtime.
 
 ---
 
